@@ -20,9 +20,5 @@
     "url": "https://github.com/doggan/recursive-image-search/issues"
   },
   "homepage": "https://github.com/doggan/recursive-image-search",
-  "jshintConfig": {
-    "node": true,
-    "unused": true
-  },
   "dependencies": {}
 }
