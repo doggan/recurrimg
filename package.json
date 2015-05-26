@@ -23,5 +23,6 @@
   "jshintConfig": {
     "node": true,
     "unused": true
-  }
+  },
+  "dependencies": {}
 }
