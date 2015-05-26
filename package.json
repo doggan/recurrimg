@@ -20,5 +20,7 @@
     "url": "https://github.com/doggan/recursive-image-search/issues"
   },
   "homepage": "https://github.com/doggan/recursive-image-search",
-  "dependencies": {}
+  "dependencies": {
+    "async": "^1.0.0"
+  }
 }
