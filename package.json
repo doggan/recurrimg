@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/doggan/recursive-image-search",
   "dependencies": {
-    "async": "^1.0.0"
+    "async": "^1.0.0",
+    "mkdirp": "^0.5.1"
   }
 }
