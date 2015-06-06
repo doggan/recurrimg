@@ -1,7 +1,7 @@
 {
   "name": "recursive-image-search",
   "version": "0.1.0",
-  "description": "",
+  "description": "Recursively perform an image search, and composite the resulting images into a gif.",
   "main": "index.js",
   "keywords": [
     "diablo",
