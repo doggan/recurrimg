@@ -22,7 +22,12 @@
   "homepage": "https://github.com/doggan/recursive-image-search",
   "dependencies": {
     "async": "^1.0.0",
+    "gifencoder": "^1.0.6",
+    "lodash": "^3.9.3",
     "mkdirp": "^0.5.1",
-    "request": "^2.56.0"
+    "png-file-stream": "^1.0.0",
+    "request": "^2.56.0",
+    "rimraf": "^2.3.4",
+    "sharp": "^0.10.1"
   }
 }
