@@ -1,11 +1,13 @@
 {
   "name": "recursive-image-search",
   "version": "0.1.0",
-  "description": "Recursively perform an image search, and composite the resulting images into a gif.",
+  "description": "A package for performing reverse image searches... recursively.",
   "main": "index.js",
   "keywords": [
-    "diablo",
-    "file format"
+    "recursive",
+    "image search",
+    "gif",
+    "cool"
   ],
   "scripts": {
     "start": "node ./lib/index.js"
