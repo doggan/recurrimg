@@ -1,5 +1,5 @@
-# recursive-image-search
+# recurrimg
 
 <p align="center">
-<img src="https://raw.github.com/doggan/recursive-image-search/screenshots/result_0.gif"/>
+<img src="https://raw.github.com/doggan/recurrimg/screenshots/result_0.gif"/>
 </p>

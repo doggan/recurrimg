@@ -1,5 +1,5 @@
 {
-  "name": "recursive-image-search",
+  "name": "recurrimg",
   "version": "0.1.0",
   "description": "A package for performing reverse image searches... recursively.",
   "main": "index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/doggan/recursive-image-search.git"
+    "url": "https://github.com/doggan/recurrimg.git"
   },
   "author": "Shyam Guthikonda",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/doggan/recursive-image-search/issues"
+    "url": "https://github.com/doggan/recurrimg/issues"
   },
-  "homepage": "https://github.com/doggan/recursive-image-search",
+  "homepage": "https://github.com/doggan/recurrimg",
   "dependencies": {
     "async": "^1.0.0",
     "gifencoder": "^1.0.6",
