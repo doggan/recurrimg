@@ -2,7 +2,7 @@
   "name": "recurrimg",
   "version": "0.1.0",
   "description": "A package for performing reverse image searches... recursively.",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "keywords": [
     "recursive",
     "image search",
