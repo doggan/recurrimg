@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "description": "A package for performing reverse image searches... recursively.",
   "main": "./lib/index.js",
+  "bin": "./lib/cli.js",
   "keywords": [
     "recursive",
     "image search",
     "gif",
     "cool"
   ],
-  "bin": "./lib/cli.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/doggan/recurrimg.git"
@@ -28,7 +28,6 @@
     "mkdirp": "^0.5.1",
     "png-file-stream": "^1.0.0",
     "request": "^2.56.0",
-    "rimraf": "^2.3.4",
     "sharp": "^0.10.1"
   }
 }
